@@ -62,4 +62,4 @@ The GitHub Actions workflow in `.github/workflows/ci.yml` performs the following
 4. Tests that the model can be loaded correctly
 5. Verifies that the FastAPI application can start
 
-This ensures that the model training and API functionalities work correctly with each code change. 
+This ensures that the model training and API functionalities work correctly with each code change. # Trigger CI workflow
